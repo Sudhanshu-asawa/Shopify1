@@ -1,0 +1,110 @@
+{
+  "sections": {
+    "main": {
+      "type": "faq",
+      "blocks": {
+        "b5dc1e68-cf92-4b87-b332-7fb8913809b5": {
+          "type": "faq",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "button_label": "Hello",
+            "image": "shopify:\/\/shop_images\/download_1.jpg"
+          }
+        },
+        "ce9a8506-e989-4663-acc1-e088932b5b5b": {
+          "type": "faq",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/51aSNMfwBVL._SX425.jpg"
+          }
+        },
+        "14494955-e50e-447f-8abb-99c6c57c7e78": {
+          "type": "faq",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "button_label": "Button label"
+          }
+        },
+        "53bcbb4c-de17-44a3-973f-89ad18a0ec73": {
+          "type": "faq",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "button_label": "Button label"
+          }
+        },
+        "40cef751-36f8-4626-8d16-70a68abcca89": {
+          "type": "faq",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "button_label": "Button label"
+          }
+        },
+        "0d679e65-c26e-4ccf-aa61-20e57b3b6986": {
+          "type": "faq",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "button_label": "Button label"
+          }
+        }
+      },
+      "block_order": [
+        "b5dc1e68-cf92-4b87-b332-7fb8913809b5",
+        "ce9a8506-e989-4663-acc1-e088932b5b5b",
+        "14494955-e50e-447f-8abb-99c6c57c7e78",
+        "53bcbb4c-de17-44a3-973f-89ad18a0ec73",
+        "40cef751-36f8-4626-8d16-70a68abcca89",
+        "0d679e65-c26e-4ccf-aa61-20e57b3b6986"
+      ],
+      "settings": {
+        "content_alignment1": "center"
+      }
+    },
+    "ebe2d738-7fba-4a97-af3f-88a1b1ce1213": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18821418647847__ebe2d738-7fba-4a97-af3f-88a1b1ce1213-1683197834c70999e9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--18821418647847__ebe2d738-7fba-4a97-af3f-88a1b1ce1213-1683197834c70999e9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--18821418647847__ebe2d738-7fba-4a97-af3f-88a1b1ce1213-1683197834c70999e9-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18821418647847__ebe2d738-7fba-4a97-af3f-88a1b1ce1213-1683197834c70999e9-0",
+        "template--18821418647847__ebe2d738-7fba-4a97-af3f-88a1b1ce1213-1683197834c70999e9-1",
+        "template--18821418647847__ebe2d738-7fba-4a97-af3f-88a1b1ce1213-1683197834c70999e9-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ebe2d738-7fba-4a97-af3f-88a1b1ce1213"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "a833f6d5-c196-4b16-a719-94e7fdd450c5": {
+          "type": "header",
+          "settings": {
+            "message": "50% OFF for New Customers"
+          }
+        },
+        "2a521329-29ac-4799-8c3c-3f337c3c2670": {
+          "type": "header",
+          "settings": {
+            "message": "Welcome"
+          }
+        }
+      },
+      "block_order": [
+        "a833f6d5-c196-4b16-a719-94e7fdd450c5",
+        "2a521329-29ac-4799-8c3c-3f337c3c2670"
+      ],
+      "settings": {
+        "show_announcement_bar": true,
+        "autoplay": true,
+        "delay": "2000",
+        "colorBackground": "#ffffff",
+        "colorText": "#000"
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "top-center",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "on-scroll-up",
+        "show_line_separator": false,
+        "color_scheme": "background-1",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "mobile_logo_position": "center",
+        "margin_bottom": 20,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
