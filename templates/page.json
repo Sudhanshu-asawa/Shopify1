@@ -41,7 +41,9 @@
         "template--18819164176679__ef76be27-a970-496a-86e4-ff80394bff3c-168372563892a2c381-2"
       ],
       "settings": {
-        "title": "Testimonials"
+        "title": "Testimonials",
+        "autoplay": true,
+        "delay": "2000"
       }
     }
   },

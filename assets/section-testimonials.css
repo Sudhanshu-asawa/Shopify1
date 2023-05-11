@@ -1,5 +1,5 @@
 .container {
-  margin-left: 250px;
+  height: 300px;
 }
 .text {
   display: inline-block;
@@ -7,9 +7,7 @@
 .image {
   display: inline-block;
 }
-.author {
-  margin-left: 58px;
-}
+
 img {
   border-radius: 50%;
 }
